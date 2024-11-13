@@ -1,18 +1,21 @@
-## Getting Started
+# AI Generated Video Sharing Mobile App
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a simple PacMan game built using Java, for learning purposes.
+Cherry or Loop are not implemented.
 
-## Folder Structure
+## Features
 
-The workspace contains two folders by default, where:
+- **Game**: PacMan
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Demo
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+![Ocea Home Page](assets/demo/home.gif)
+![Ocea Bookmark Page](assets/demo/bookmark.gif)
+![Ocea Create Page](assets/demo/create.gif)
+![Ocea Profile Page](assets/demo/profile.gif)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Technology Used
 
-## Dependency Management
+- [Java]([https://www.javascript.com/](https://www.java.com/en/download/help/whatis_java.html)) - Language
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+[^1]: Referenced from YouTube channel @javascriptmastery

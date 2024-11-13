@@ -1,4 +1,4 @@
-# AI Generated Video Sharing Mobile App
+# PacMan
 
 This is a simple PacMan game built using Java, for learning purposes.
 Cherry or Loop are not implemented.
@@ -9,10 +9,7 @@ Cherry or Loop are not implemented.
 
 ## Demo
 
-![Ocea Home Page](assets/demo/home.gif)
-![Ocea Bookmark Page](assets/demo/bookmark.gif)
-![Ocea Create Page](assets/demo/create.gif)
-![Ocea Profile Page](assets/demo/profile.gif)
+![Game](public/output.gif)
 
 ## Technology Used
 
